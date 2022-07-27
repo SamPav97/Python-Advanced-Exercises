@@ -9,8 +9,11 @@ Course info: 1 month (11 Jan - 15 Feb), 3-hour-long classes four times + graded 
 
 Previous courses: 
 1 - "Python for Everybody" by University of Michigan. 5 simple introductory courses over February, March, and April 2021.
+
 2 - "Programming Basics with Python" by SoftUni. The official beginning of my education with SoftUni. July - September 2021.
+
 3 - "Programming Fundamentals with Python" by SoftUni. September - December 2021.
+
 4 - "Python Advanced" by SoftUni. See Above.
 
 
