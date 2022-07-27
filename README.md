@@ -5,7 +5,7 @@ Experience gained with: Linear Data Structures, Stacks & Queues, Tuples & Sets, 
 
 Skills obtained: Advanced Algorithmic Thought, ability to orient in the Functional Programming Paradigm.
 
-Course info: 1 month (11 Jan - 15 Feb), 3-hour-long classes four times + graded homework. Some of the problems solved are found above.
+Course info: 1 month (11 Jan - 15 Feb, 2022), 3-hour-long classes four times + graded homework. Some of the problems solved are found above.
 
 Previous courses: 
 1 - "Python for Everybody" by University of Michigan. 5 simple introductory courses over February, March, and April 2021.
